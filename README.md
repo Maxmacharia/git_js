@@ -1,3 +1,3 @@
-#github
+# Github
 
-my first tutorial on github.
+my first tutorial on Github!
